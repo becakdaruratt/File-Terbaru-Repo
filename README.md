@@ -2,7 +2,8 @@
 git remote -> untuk melihat nama dari remote (secara default namanya origin)
 git remote -v -> untuk melihat remote secara detail
 git clone (HTTPS) -> untuk menghubungkan dan mengclone , github kita ke git local
-git push -> untuk mengirim perubahan commit ke repo github , karena jika kita commit di local komputer kita yang terjadi adalah commitnya maju 1 langkah 
+git push -> untuk mengirim perubahan commit ke repo github , karena jika kita commit di local komputer kita yang terjadi adalah commitnya maju 1 langkah ,
+setelah kita push , mungkin teman teamn di minta id dan password untuk pertama kali , maka secara otomatis file yang kita commit akan bertambah di github kita , dan biasanya id password kita tersimpan di sistem kita, jadi tidak perlu login kembali tapi mungkin suatu saat di minta lagi itu , jika kita menggunakan HTTPS , sedangkan kalau menggunakan SSH tidak perlu menggunakan login seperti itu 
 
 
 
